@@ -1,1 +1,1 @@
-var dan=3
+var man=3
