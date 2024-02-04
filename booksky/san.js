@@ -1,1 +1,1 @@
-var can=3
+var dan=3
