@@ -1,1 +1,1 @@
-var man=3
+var can=3
